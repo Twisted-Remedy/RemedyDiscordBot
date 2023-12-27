@@ -1,0 +1,5 @@
+{
+  "bot_token": "Discord Bot Token",
+  "guild_ids": [Discord Server ID 1, Discord Server ID 2],
+  "riot_api_key": "Riot API Key"
+}
